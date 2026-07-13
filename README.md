@@ -22,8 +22,8 @@ can defend line by line — not a list of tutorials.
 NumPy, Pandas · CS50P (Harvard, in progress) · working toward scikit-learn → NLP/LLM tooling
 
 ## Certifications
-Honhaar Jawan Python Certification — Student Grade Manager capstone
-TEVTA Certified Computer Operator
+- Honhaar Jawan Python Certification — Student Grade Manager capstone
+- TEVTA Certified Computer Operator
 
 ## Tools
 Git · GitHub · VS Code · Google Colab
