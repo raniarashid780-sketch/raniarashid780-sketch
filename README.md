@@ -32,15 +32,15 @@ Git · GitHub · VS Code · Google Colab
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=raniarashid780-sketch&show_icons=true&theme=dark&hide_border=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=raniarashid780-sketch&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raniarashid780-sketch&show_icons=true&theme=default&hide_border=true&count_private=true" height="150">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-chi-one-fhtsy394dj.vercel.app/api?username=raniarashid780-sketch&show_icons=true&theme=dark&hide_border=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-chi-one-fhtsy394dj.vercel.app/api?username=raniarashid780-sketch&show_icons=true&theme=default&hide_border=true&count_private=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats-chi-one-fhtsy394dj.vercel.app/api?username=raniarashid780-sketch&show_icons=true&theme=default&hide_border=true&count_private=true" height="150">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raniarashid780-sketch&layout=compact&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raniarashid780-sketch&layout=compact&theme=default&hide_border=true">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniarashid780-sketch&layout=compact&theme=default&hide_border=true" height="150">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-chi-one-fhtsy394dj.vercel.app/api/top-langs/?username=raniarashid780-sketch&layout=compact&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-chi-one-fhtsy394dj.vercel.app/api/top-langs/?username=raniarashid780-sketch&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats-chi-one-fhtsy394dj.vercel.app/api/top-langs/?username=raniarashid780-sketch&layout=compact&theme=default&hide_border=true" height="150">
 </picture>
 
 </div>
