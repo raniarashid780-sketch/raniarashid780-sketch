@@ -9,11 +9,9 @@ can defend line by line — not a list of tutorials.
 
 ---
 
-## Projects
-
 | Project | What it does | Stack |
 |---|---|---|
-| [File Organizer Automation](https://github.com/raniarashid780-sketch/file-organizer-automation) | Sorts Downloads/Desktop into dated folders by file type | Python — pathlib, shutil, os, datetime |
+| [File Organizer Automation](https://github.com/raniarashid780-sketch/file-organizer-automation) | Sorts Downloads/Desktop into dated folders by file type, with collision-safe moving (no overwrites) and CLI configuration for scoped or test runs | Python — pathlib, shutil, datetime, argparse |
 | [SmartCare-Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic) | Terminal-based clinic management system — patient ID generation, rule-based symptom-to-specialty routing, urgency-flagged billing, colored terminal output | Python (OOP), raw ANSI escape codes — in-memory only, persistence in progress |
 
 *Coursework (CS50P, university assignments) is intentionally not listed here — this table is projects only.*
