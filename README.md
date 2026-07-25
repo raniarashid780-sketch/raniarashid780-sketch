@@ -11,7 +11,7 @@ can defend line by line — not a list of tutorials.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [File Organizer Automation](https://github.com/raniarashid780-sketch/file-organizer-automation) | Sorts Downloads/Desktop into dated folders by file type, with collision-safe moving (no overwrites) and CLI configuration for scoped or test runs | Python — pathlib, shutil, datetime, argparse |
+| [File Organizer Automation](https://github.com/raniarashid780-sketch/file-organizer-automation) ([live demo](https://raniarashid780-sketch-file-organizer-autom-streamlit-app-sypeq4.streamlit.app/)) | Sorts Downloads/Desktop into dated folders by file type, with collision-safe moving, CLI configuration, and a Streamlit UI | Python — pathlib, shutil, datetime, argparse, logging, streamlit |
 | [SmartCare-Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic) | Terminal-based clinic management system — patient ID generation, rule-based symptom-to-specialty routing, urgency-flagged billing, colored terminal output | Python (OOP), raw ANSI escape codes — in-memory only, persistence in progress |
 
 *Coursework (CS50P, university assignments) is intentionally not listed here — this table is projects only.*
@@ -22,6 +22,7 @@ NumPy, Pandas · CS50P (Harvard, in progress) · working toward scikit-learn →
 ## Certifications
 - Honhaar Jawan Python Certification — Student Grade Manager capstone
 - TEVTA Certified Computer Operator
+
 
 ## Tools
 Git · GitHub · VS Code · Google Colab
