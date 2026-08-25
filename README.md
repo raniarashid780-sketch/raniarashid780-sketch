@@ -13,7 +13,7 @@ projects I can defend line by line — not a list of tutorials.
 |---|---|---|
 | [File Organizer Automation](https://github.com/raniarashid780-sketch/file-organizer-automation) ([live demo](https://raniarashid780-sketch-file-organizer-autom-streamlit-app-sypeq4.streamlit.app/)) | Sorts Downloads/Desktop into dated folders by file type, with collision-safe moving, CLI configuration, and a Streamlit UI | Python — pathlib, shutil, datetime, argparse, logging, streamlit |
 | [FreelanceLens](https://github.com/raniarashid780-sketch/FreelanceLens) | Analyzes 24 manually-collected Upwork job listings — cleans messy real-world data, breaks down top skills and average pay by category (fixed vs. hourly kept separate), visualized in a 4-chart summary figure | Python — pandas, NumPy, matplotlib |
-| [SmartCare-Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic) | Terminal-based clinic management system — patient ID generation, rule-based symptom-to-specialty routing, urgency-flagged billing, colored terminal output via colorama, CSV persistence across sessions | Python (OOP — inheritance, polymorphism, encapsulation, abstraction, operator overloading), colorama |
+| [SmartCare-Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic) | Terminal-based clinic management system — patient ID generation, rule-based symptom-to-specialty routing, urgency-flagged billing, colored terminal output via colorama, PostgreSQL persistence across sessions | Python (OOP — inheritance, polymorphism, encapsulation, abstraction, operator overloading), colorama, PostgreSQL |
 
 *Coursework (CS50P, university assignments) is intentionally not listed here — this table is projects only.*
 
@@ -37,14 +37,14 @@ projects I can defend line by line — not a list of tutorials.
 </div>
 
 ## Currently Learning
-SQL (14-day track: core queries → advanced SQL → capstone migrating SmartCare-Clinic's
-storage to SQLite) · Linear Algebra · working toward scikit-learn → NLP/LLM tooling
+FastAPI · Docker · Linear Algebra · Probability & Statistics · working toward scikit-learn → NLP/LLM tooling
 
 ## Core Stack
-Python · pandas · NumPy · matplotlib · Streamlit · colorama · Git · GitHub · VS Code · Google Colab
+Python · pandas · NumPy · matplotlib · Streamlit · colorama · SQL · PostgreSQL · FastAPI (in progress) · Docker (in progress) · Git · GitHub · VS Code · Google Colab
 
 ## Certifications
 - TEVTA Certified Computer Operator
+<img src="https://images.credly.com/images/1a546b64-d2d1-480a-9144-410112eb8fa0/linkedin_thumb_blob" width="80" alt="Google IT Automation with Python Professional Certificate"/> [Google IT Automation with Python Professional Certificate](https://www.credly.com/badges/a267d40d-0d10-41c3-8778-fc3281bb0c15/public_url) — Coursera
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/rania-rashid00/)
