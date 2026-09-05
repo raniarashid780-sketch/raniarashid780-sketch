@@ -2,53 +2,39 @@
 
 BS Artificial Intelligence — Ghazi University, Dera Ghazi Khan, Pakistan (2025–2029)
 
-Building toward AI application / automation engineering, with a focus on
-practical LLM-powered tools. Early-stage and honest about it: right now
-that means solid Python + data-analysis fundamentals and a small number of
-projects I can defend line by line — not a list of tutorials.
+I'm early-stage and I'm not going to pretend otherwise. What I do have: solid Python and data-analysis fundamentals, and a small number of projects I can defend line by line — not a list of finished tutorials.
 
 ---
 
-| Project | What it does | Stack |
-|---|---|---|
-| [File Organizer Automation](https://github.com/raniarashid780-sketch/file-organizer-automation) ([live demo](https://raniarashid780-sketch-file-organizer-autom-streamlit-app-sypeq4.streamlit.app/)) | Sorts Downloads/Desktop into dated folders by file type, with collision-safe moving, CLI configuration, and a Streamlit UI | Python — pathlib, shutil, datetime, argparse, logging, streamlit |
-| [FreelanceLens](https://github.com/raniarashid780-sketch/FreelanceLens) | Analyzes 24 manually-collected Upwork job listings — cleans messy real-world data, breaks down top skills and average pay by category (fixed vs. hourly kept separate), visualized in a 4-chart summary figure | Python — pandas, NumPy, matplotlib |
-| [SmartCare-Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic) | Terminal-based clinic management system — patient ID generation, rule-based symptom-to-specialty routing, urgency-flagged billing, colored terminal output via colorama, PostgreSQL persistence across sessions | Python (OOP — inheritance, polymorphism, encapsulation, abstraction, operator overloading), colorama, PostgreSQL |
+### 🔧 Projects
 
-*Coursework (CS50P, university assignments) is intentionally not listed here — this table is projects only.*
+**[SmartCare-Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic)** — Terminal-based clinic management system: patient ID generation, rule-based symptom-to-specialty routing, urgency-flagged billing, colored terminal output, PostgreSQL persistence. Built with full OOP (inheritance, polymorphism, encapsulation, abstraction, operator overloading). FastAPI layer planned next.
+`Python · PostgreSQL · colorama`
 
-## Screenshots
+**[File Organizer Automation](https://github.com/raniarashid780-sketch/file-organizer-automation)** — Sorts Downloads/Desktop into dated folders by file type. Collision-safe moving, CLI configuration, Streamlit UI. [Live demo →]( https://raniarashid780-sketch-file-organizer-autom-streamlit-app-sypeq4.streamlit.app/)
+`Python · pathlib · shutil · Streamlit`
 
-<div align="center">
+**[FreelanceLens](https://github.com/raniarashid780-sketch/Freelancelens)** — Analyzed 24 manually-collected Upwork job listings. Cleaned messy real-world data, broke down top skills and average pay by category (fixed vs. hourly kept separate), visualized in a 4-chart summary. Small-sample limitations disclosed on purpose, not hidden.
+`Python · pandas · NumPy · matplotlib`
 
-<img src="https://raw.githubusercontent.com/raniarashid780-sketch/file-organizer-automation/main/assets/demo.png" width="420" alt="File Organizer Automation — Streamlit UI"><br>
-<sub><b>File Organizer Automation</b> — Streamlit UI, categorized output</sub>
+> Coursework (CS50P, university assignments) is intentionally left out — this is projects only.
 
-&nbsp;&nbsp;&nbsp;
+---
 
-<img src="https://raw.githubusercontent.com/raniarashid780-sketch/SmartCare-Clinic/main/assets/demo.png" width="420" alt="SmartCare-Clinic — terminal output"><br>
-<sub><b>SmartCare-Clinic</b> — colorama terminal output, urgent case flagged</sub>
+### 🧠 Currently learning
+SQLAlchemy · Linear Algebra · Probability & Statistics — building toward scikit-learn → NLP/LLM tooling
 
-&nbsp;&nbsp;&nbsp;
+### 🛠️ Core stack
 
-<img src="https://raw.githubusercontent.com/raniarashid780-sketch/FreelanceLens/main/freelancelens_charts.png" width="420" alt="FreelanceLens — analysis charts"><br>
-<sub><b>FreelanceLens</b> — skills, budget, and category breakdown</sub>
+<img src="https://skillicons.dev/icons?i=python,postgres,fastapi,docker,git,github" />
 
-</div>
+Python · SQL · PostgreSQL · FastAPI · Docker · pandas · NumPy · matplotlib · Streamlit · Git/GitHub
 
-## Currently Learning
-FastAPI · Docker · Linear Algebra · Probability & Statistics · working toward scikit-learn → NLP/LLM tooling
+### 📜 Certifications
+[Google IT Automation with Python Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/WD7H4D5P9PVF) · TEVTA Certified Computer Operator
+---
 
-## Core Stack
-Python · pandas · NumPy · matplotlib · Streamlit · colorama · SQL · PostgreSQL · FastAPI (in progress) · Docker (in progress) · Git · GitHub · VS Code · Google Colab
-
-## Certifications
-- TEVTA Certified Computer Operator
-<img src="https://images.credly.com/images/1a546b64-d2d1-480a-9144-410112eb8fa0/linkedin_thumb_blob" width="80" alt="Google IT Automation with Python Professional Certificate"/> [Google IT Automation with Python Professional Certificate](https://www.credly.com/badges/a267d40d-0d10-41c3-8778-fc3281bb0c15/public_url) — Coursera
-
-## Connect
-[LinkedIn](https://www.linkedin.com/in/rania-rashid00/)
-
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -65,3 +51,15 @@ Python · pandas · NumPy · matplotlib · Streamlit · colorama · SQL · Postg
 </picture>
 
 </div>
+
+---
+
+### 📫 Reach me
+
+<p>
+<a href="https://www.linkedin.com/in/rania-rashid00/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://raniarashid780-sketch.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:raniaghauri76@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+Open to remote internships and freelance Python/automation work — I'd rather show you the code than describe it.
