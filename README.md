@@ -8,10 +8,10 @@ I'm early-stage and I'm not going to pretend otherwise. What I do have: solid Py
 
 ### 🔧 Projects
 
-**[SmartCare-Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic)** — Terminal-based clinic management system: patient ID generation, rule-based symptom-to-specialty routing, urgency-flagged billing, colored terminal output, PostgreSQL persistence. Built with full OOP (inheritance, polymorphism, encapsulation, abstraction, operator overloading). FastAPI layer planned next.
+**[SmartCare Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic)** — Terminal-based clinic management system: patient ID generation, rule-based symptom-to-specialty routing, urgency-flagged billing, colored terminal output, PostgreSQL persistence. Built with full OOP (inheritance, polymorphism, encapsulation, abstraction, operator overloading). FastAPI layer planned next.
 `Python · PostgreSQL · colorama`
 
-**[File Organizer Automation](https://github.com/raniarashid780-sketch/file-organizer-automation)** — Sorts Downloads/Desktop into dated folders by file type. Collision-safe moving, CLI configuration, Streamlit UI. [Live demo →]( https://raniarashid780-sketch-file-organizer-autom-streamlit-app-sypeq4.streamlit.app/)
+**[File Organizer](https://github.com/raniarashid780-sketch/file-organizer-automation)** — Sorts Downloads/Desktop into dated folders by file type. Collision-safe moving, CLI configuration, Streamlit UI. [Live demo →]( https://raniarashid780-sketch-file-organizer-autom-streamlit-app-sypeq4.streamlit.app/)
 `Python · pathlib · shutil · Streamlit`
 
 **[FreelanceLens](https://github.com/raniarashid780-sketch/Freelancelens)** — Analyzed 24 manually-collected Upwork job listings. Cleaned messy real-world data, broke down top skills and average pay by category (fixed vs. hourly kept separate), visualized in a 4-chart summary. Small-sample limitations disclosed on purpose, not hidden.
