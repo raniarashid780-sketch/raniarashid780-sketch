@@ -8,8 +8,8 @@ I'm early-stage and I'm not going to pretend otherwise. What I do have: solid Py
 
 ### 🔧 Projects
 
-**[SmartCare Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic)** — Terminal-based clinic management system: patient ID generation, rule-based symptom-to-specialty routing, urgency-flagged billing, colored terminal output, PostgreSQL persistence. Built with full OOP (inheritance, polymorphism, encapsulation, abstraction, operator overloading). FastAPI layer planned next.
-`Python · PostgreSQL · colorama`
+**[SmartCare Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic)** — Terminal-based clinic management system with a full REST API: patient ID generation, rule-based symptom-to-specialty routing, urgency-flagged billing, PostgreSQL persistence via SQLAlchemy + Alembic migrations, FastAPI layer with double-booking prevention enforced at the database level. Built with full OOP (inheritance, polymorphism, encapsulation, abstraction, operator overloading).
+`Python · PostgreSQL · SQLAlchemy · Alembic · FastAPI`
 
 **[File Organizer](https://github.com/raniarashid780-sketch/file-organizer-automation)** — Sorts Downloads/Desktop into dated folders by file type. Collision-safe moving, CLI configuration, Streamlit UI. [Live demo →]( https://raniarashid780-sketch-file-organizer-autom-streamlit-app-sypeq4.streamlit.app/)
 `Python · pathlib · shutil · Streamlit`
@@ -20,15 +20,14 @@ I'm early-stage and I'm not going to pretend otherwise. What I do have: solid Py
 > Coursework (CS50P, university assignments) is intentionally left out — this is projects only.
 
 ---
-
 ### 🧠 Currently learning
-SQLAlchemy · Linear Algebra · Probability & Statistics — building toward scikit-learn → NLP/LLM tooling
+Exploratory Data Analysis · Linear Algebra · Probability & Statistics — building toward scikit-learn → NLP/LLM tooling
 
 ### 🛠️ Core stack
 
 <img src="https://skillicons.dev/icons?i=python,postgres,fastapi,docker,git,github" />
 
-Python · SQL · PostgreSQL · FastAPI · Docker · pandas · NumPy · matplotlib · Streamlit · Git/GitHub
+Python · SQL · PostgreSQL · SQLAlchemy · Alembic · FastAPI · Docker · pandas · NumPy · matplotlib · Streamlit · Git/GitHub
 
 ### 📜 Certifications
 [Google IT Automation with Python Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/WD7H4D5P9PVF) · TEVTA Certified Computer Operator
