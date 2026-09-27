@@ -8,8 +8,8 @@ I'm early-stage and I'm not going to pretend otherwise. What I do have: solid Py
 
 ### 🔧 Projects
 
-**[SmartCare Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic)** — Terminal-based clinic management system with a full REST API: patient ID generation, rule-based symptom-to-specialty routing, urgency-flagged billing, PostgreSQL persistence via SQLAlchemy + Alembic migrations, FastAPI layer with double-booking prevention enforced at the database level. Built with full OOP (inheritance, polymorphism, encapsulation, abstraction, operator overloading).
-`Python · PostgreSQL · SQLAlchemy · Alembic · FastAPI`
+**[SmartCare Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic)** — Terminal-based clinic management system with a full REST API: patient ID generation, rule-based symptom-to-specialty routing, urgency-flagged billing, PostgreSQL persistence via SQLAlchemy + Alembic migrations, FastAPI layer with double-booking prevention enforced at the database level, fully containerized with Docker Compose (API + Postgres, automatic migrations on startup, persistent data volume). Built with full OOP (inheritance, polymorphism, encapsulation, abstraction, operator overloading).
+`Python · PostgreSQL · SQLAlchemy · Alembic · FastAPI · Docker`
 
 **[File Organizer](https://github.com/raniarashid780-sketch/file-organizer-automation)** — Sorts Downloads/Desktop into dated folders by file type. Collision-safe moving, CLI configuration, Streamlit UI. [Live demo →]( https://raniarashid780-sketch-file-organizer-autom-streamlit-app-sypeq4.streamlit.app/)
 `Python · pathlib · shutil · Streamlit`
