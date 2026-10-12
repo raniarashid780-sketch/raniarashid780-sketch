@@ -30,7 +30,7 @@ I'm learning to build and evaluate machine-learning models with scikit-learn. I'
 Python · SQL · PostgreSQL · SQLAlchemy · Alembic · FastAPI · Docker · pandas · NumPy · matplotlib · Streamlit · Git/GitHub
 
 ### 📜 Certifications
-Google IT Automation with Python Professional Certificate · TEVTA Certified Computer Operator · [View certificate credentials](https://www.coursera.org/account/accomplishments/specialization/WD7H4D5P9PVF)
+Google IT Automation with Python Professional Certificate · [View certificate credentials](https://www.coursera.org/account/accomplishments/specialization/WD7H4D5P9PVF) · TEVTA Certified Computer Operator
 ---
 
 ### 📊 GitHub Stats
