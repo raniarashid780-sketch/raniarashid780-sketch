@@ -2,26 +2,26 @@
 
 BS Artificial Intelligence — Ghazi University, Dera Ghazi Khan, Pakistan (2025–2029)
 
-I'm early-stage and I'm not going to pretend otherwise. What I do have: solid Python and data-analysis fundamentals, and a small number of projects I can defend line by line — not a list of finished tutorials.
+I'm an Artificial Intelligence student building practical experience with Python, data analysis, and software development. This portfolio presents selected projects and the tools I used to build them.
 
 ---
 
 ### 🔧 Projects
 
-**[SmartCare Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic)** — Terminal-based clinic management system with a full REST API: patient ID generation, rule-based symptom-to-specialty routing, urgency-flagged billing, PostgreSQL persistence via SQLAlchemy + Alembic migrations, FastAPI layer with double-booking prevention enforced at the database level, fully containerized with Docker Compose (API + Postgres, automatic migrations on startup, persistent data volume). Built with full OOP (inheritance, polymorphism, encapsulation, abstraction, operator overloading).
+**[SmartCare Clinic](https://github.com/raniarashid780-sketch/SmartCare-Clinic)** — A clinic management system with a terminal interface and REST API. It generates patient IDs, routes symptoms to specialties using rules, and flags urgent billing. It stores data in PostgreSQL using SQLAlchemy and Alembic. The FastAPI service prevents double bookings at the database level. Docker Compose runs the API and database, applies migrations at startup, and keeps data in a persistent volume. The project uses object-oriented programming concepts including inheritance, polymorphism, encapsulation, abstraction, and operator overloading.
 `Python · PostgreSQL · SQLAlchemy · Alembic · FastAPI · Docker`
 
-**[File Organizer](https://github.com/raniarashid780-sketch/file-organizer-automation)** — Sorts Downloads/Desktop into dated folders by file type. Collision-safe moving, CLI configuration, Streamlit UI. [Live demo →]( https://raniarashid780-sketch-file-organizer-autom-streamlit-app-sypeq4.streamlit.app/)
+**[File Organizer](https://github.com/raniarashid780-sketch/file-organizer-automation)** — Sorts files from Downloads and Desktop into dated folders by file type. It handles filename collisions, supports command-line configuration, and includes a Streamlit interface. [Live demo →](https://raniarashid780-sketch-file-organizer-autom-streamlit-app-sypeq4.streamlit.app/)
 `Python · pathlib · shutil · Streamlit`
 
-**[FreelanceLens](https://github.com/raniarashid780-sketch/Freelancelens)** — Analyzed 24 manually-collected Upwork job listings. Cleaned messy real-world data, broke down top skills and average pay by category (fixed vs. hourly kept separate), visualized in a 4-chart summary. Small-sample limitations disclosed on purpose, not hidden.
+**[FreelanceLens](https://github.com/raniarashid780-sketch/Freelancelens)** — Analyzed 24 manually collected Upwork job listings to summarize requested skills and compare average pay by category. Fixed-price and hourly listings are analyzed separately. Four charts present the results, and the small sample size is noted as a limitation.
 `Python · pandas · NumPy · matplotlib`
 
-> Coursework (CS50P, university assignments) is intentionally left out — this is projects only.
+> This portfolio focuses on projects; CS50P coursework and university assignments are not included.
 
 ---
 ### 🧠 Currently learning
-Exploratory Data Analysis · Linear Algebra · Probability & Statistics — building toward scikit-learn → NLP/LLM tooling
+I'm learning to build and evaluate machine-learning models with scikit-learn. I'm also studying linear algebra, probability, and statistics to strengthen my mathematical foundations.
 
 ### 🛠️ Core stack
 
@@ -30,7 +30,7 @@ Exploratory Data Analysis · Linear Algebra · Probability & Statistics — buil
 Python · SQL · PostgreSQL · SQLAlchemy · Alembic · FastAPI · Docker · pandas · NumPy · matplotlib · Streamlit · Git/GitHub
 
 ### 📜 Certifications
-[Google IT Automation with Python Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/WD7H4D5P9PVF) · TEVTA Certified Computer Operator
+Google IT Automation with Python Professional Certificate · TEVTA Certified Computer Operator · [View certificate credentials](https://www.coursera.org/account/accomplishments/specialization/WD7H4D5P9PVF)
 ---
 
 ### 📊 GitHub Stats
@@ -61,4 +61,4 @@ Python · SQL · PostgreSQL · SQLAlchemy · Alembic · FastAPI · Docker · pan
 <a href="mailto:raniaghauri76@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-Open to remote internships and freelance Python/automation work — I'd rather show you the code than describe it.
+Open to remote internships and freelance work in Python development and automation.
